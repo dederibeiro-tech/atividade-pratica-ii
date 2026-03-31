@@ -1,0 +1,42 @@
+body{
+    font-family: arial;
+
+
+}
+
+.cabecalho{
+    background-color: #097188;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    color: white
+}
+
+.menu{
+    padding: 10px;
+    text-align: center;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.formulario{
+    width: 400px;
+    margin: 40px auto;
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.texto{
+    text-align: center;
+}
+
+.formulario{
+    padding: 40px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
